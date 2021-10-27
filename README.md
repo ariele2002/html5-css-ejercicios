@@ -1,0 +1,1 @@
+Exercises and practices HTML5 and CSS
